@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "emus": ["RUR", "USD"],
+        "emus": ["RUB", "USD"]
       }
     }
   }
